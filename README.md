@@ -20,7 +20,6 @@ https://youtu.be/vx0Txa1bG2I
 - Design moderne rouge, cyan, jaune, orange et bleu
 - 6 icones différente couleur
 - jauge remplie selon la santé, la faim... du personnage
-- Menu clic droit
 - Prénom & Nom RP 
 - Âge RP 
 
