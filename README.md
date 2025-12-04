@@ -45,27 +45,6 @@ ensure Unknownerous_Hud ou ensure Standalone (resource/[standalone]/Unknownerous
 ### 4. Redémarrer le serveur
 Redémarre ton TxAdmin en rafraichissant avec la commande (restart Unknownerous_Hud)
 
-
-## 📁 Structure des fichiers
-
-```
-Unknownerous_Inventory📁/
-├── client📁/
-│   └── client.lua          
-├── server📁/
-│   └── server.lua              
-├── html📁/
-│   ├── index.html                                  
-│   └── assets📁/
-│       └── css/
-│             └──style.css
-│       └── js 📁/ 
-│            └──jquery.min.js 
-│            └── script.js
-├── Config.lua              
-├── fxmanifest.lua 
-```
-
 ## 🎨 Personnaliser les couleurs
 
 Ouvre `html/style.css` et modifie les variables en haut :
